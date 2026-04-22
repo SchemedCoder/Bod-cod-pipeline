@@ -1,0 +1,10 @@
+{
+  "name": "bod_cod_pipeline",
+  "steps": [
+    "Lookup COD file",
+    "If exists → use as BOD",
+    "Else → use initial balance",
+    "Process transactions",
+    "Generate COD"
+  ]
+}
