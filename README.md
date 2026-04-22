@@ -41,4 +41,6 @@ python src/process_transactions.py
 python src/generate_cod.py  
 
 ---
+output
 
+I ran it locally and stored sample outputs / expected outputs in the repository to demonstrate the pipeline results and make the project easier to understand without running the code.
